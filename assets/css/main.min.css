@@ -363,4 +363,8 @@ body{
         height:20vh;
         background-color:var(--netral-background-color);
     }
+    .image-mobile{
+        width:80%;
+        height:80%;
+    }
 }
